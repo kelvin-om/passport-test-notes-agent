@@ -1,0 +1,4 @@
+spec_version: "0.1.0"
+name: notes-summary-agent
+version: 1.0.0
+description: Summarises meeting notes into short action lists. Built only for Passport QA testing.
